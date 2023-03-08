@@ -1,22 +1,22 @@
-> One of man's most urgent requirements is food. In contemplating virtually any hypothetical survival situation, the mind immediately turns to thoughts of food. Unless the situation occurs in an arid environment, even water, which is more important to maintaining body functions, will usually follow food in our initial thoughts. The survivor must remember that the three essentials of survival—water, food, and shelter—are prioritized according to the estimate of the actual situation. This estimate must not only be timely but accurate as well. We can live for weeks without food but it may take days or weeks to determine what is safe to eat and to trap animals in the area. Therefore, you need to begin food gathering in the earliest stages of survival as your endurance will decrease daily. Some situations may well dictate that shelter precede both food and water.
+> Uma das necessidades mais urgentes do ser humano é o alimento. Se imaginando em praticamente qualquer situação de sobrevivencia hipotetica, faz a mente imediatamente pensar em alimento. A não ser que a situação seja em um ambiente arido, até agua, que é mais importante para manter as funções vitais, vai ser acompanhada por em nossos instintos iniciais follow food in our initial thoughts. Os tres esse survivor must remember that the three essentials of survival—water, food, and shelter—are prioritized according to the estimate of the actual situation. This estimate must not only be timely but accurate as well. We can live for weeks without food but it may take days or weeks to determine what is safe to eat and to trap animals in the area. Therefore, you need to begin food gathering in the earliest stages of survival as your endurance will decrease daily. Some situations may well dictate that shelter precede both food and water.
 
-### ANIMALS FOR FOOD
+### ANIMAIS COMO FONTE DE ALIMENTO
 
 8-1\. Unless you have the chance to take large game, concentrate your efforts on the smaller animals. They are more abundant and easier to prepare. You need not know all the animal species that are suitable as food; relatively few are poisonous, and they make a smaller list to remember. However, it is important to learn the habits and behavioral patterns of classes of animals. For example, animals that are excellent choices for trapping, those that inhabit a particular range and occupy a den or nest, those that have somewhat fixed feeding areas, and those that have trails leading from one area to another. Larger, herding animals, such as elk or caribou, roam vast areas and are somewhat more difficult to trap. Also, you must understand the food choices of a particular species to select the proper bait.
 
 8-2\. You can, with relatively few exceptions, eat anything that crawls, swims, walks, or flies. You must first overcome your natural aversion to a particular food source. Historically, people in starvation situations have resorted to eating everything imaginable for nourishment. A person who ignores an otherwise healthy food source due to a personal bias, or because he feels it is unappetizing, is risking his own survival. Although it may prove difficult at first, you must eat what is available to maintain your health. Some classes of animals and insects may be eaten raw if necessary, but you should, if possible, thoroughly cook all food sources whenever possible to avoid illness.
 
-**INSECTS**
+**INSETOS**
 
 8-3\. The most abundant and easily caught life-form on earth are insects. Many insects provide 65 to 80 percent protein compared to 20 percent for beef. This fact makes insects an important, if not overly appetizing, food source. Insects to avoid include all adults that sting or bite, hairy or brightly colored insects, and caterpillars and insects that have a pungent odor. Also avoid spiders and common disease carriers such as ticks, flies, and mosquitoes.
 
 8-4\. Rotting logs lying on the ground are excellent places to look for a variety of insects including ants, termites, beetles, and grubs, which are beetle larvae. Do not overlook insect nests on or in the ground. Grassy areas, such as fields, are good areas to search because the insects are easily seen. Stones, boards, or other materials lying on the ground provide the insects with good nesting sites. Check these sites. Insect larvae are also edible. Insects that have a hard outer shell such as beetles and grasshoppers will have parasites. Cook them before eating. Remove any wings and barbed legs also. You can eat most soft-shelled insects raw. The taste varies from one species to another. Wood grubs are bland, but some species of ants store honey in their bodies, giving them a sweet taste. You can grind a collection of insects into a paste. You can mix them with edible vegetation. You can cook them to improve their taste.
 
-**WORMS**
+**MINHOCAS**
 
 8-5\. Worms (_Annelidea_) are an excellent protein source. Dig for them in damp humus soil and in the rootball of grass clumps, or watch for them on the ground after a rain. After capturing them, drop them into clean, potable water for about 15 minutes. The worms will naturally purge or wash themselves out, after which you can eat them raw.
 
-**CRUSTACEANS**
+**CRUSTACEOS**
 
 8-6\. Freshwater shrimp range in size from 0.25 centimeter (1/16 inch) up to 2.5 centimeters (1 inch). They can form rather large colonies in mats of floating algae or in mud bottoms of ponds and lakes.
 
@@ -24,15 +24,15 @@
 
 8-8\. You can find saltwater lobsters, crabs, and shrimp from the surf's edge out to water 10 meters (33 feet) deep. Shrimp may come to a light at night where you can scoop them up with a net. You can catch lobsters and crabs with a baited trap or a baited hook. Crabs will come to bait placed at the edge of the surf, where you can trap or net them. Lobsters and crabs are nocturnal and caught best at night.
 
-**NOTE:** You must cook all freshwater crustaceans, mollusks, and fish. Fresh water tends to harbor many dangerous organisms , animal and human contaminants, and possibly agricultural and industrial pollutants.
+**PONTO IMPORTANTE:** You must cook all freshwater crustaceans, mollusks, and fish. Fresh water tends to harbor many dangerous organisms , animal and human contaminants, and possibly agricultural and industrial pollutants.
 
-**MOLLUSKS**
+**MOLUSCOS**
 
 8-9\. This class includes octopuses and freshwater and saltwater shellfish such as snails, clams, mussels, bivalves, barnacles, periwinkles, chitons, and sea urchins ([Figure 8-1](#fig8-1)). You find bivalves similar to our freshwater mussel and terrestrial and aquatic snails worldwide under all water conditions.
 
 <a name="fig8-1"></a>![Figure 8-1\. Edible Mollusks](fig08-01.png)
 
-**Figure 8-1\. Edible Mollusks**
+**Figure 8-1\.  Moluscos Comestiveis**
 
 8-10\. River snails or freshwater periwinkles are plentiful in rivers, streams, and lakes of northern coniferous forests. These snails may be pencil point or globular in shape.
 
@@ -42,17 +42,17 @@
 
 8-13\. Mussels usually form dense colonies in rock pools, on logs, or at the base of boulders.
 
-> **CAUTION**
+> **ATENÇÃO**
 > 
 > Mussels may be poisonous in tropical zones during the summer! If a noticeable red tide has occurred within 72 hours, do not eat any fish or shellfish from that water source.
 
 8-14\. Steam, boil, or bake mollusks in the shell. They make excellent stews in combination with greens and tubers.
 
-> **CAUTION**
+> **ATENÇÃO**
 > 
 > Do not eat shellfish that are not covered by water at high tide!
 
-**FISH**
+**PEIXES**
 
 8-15\. Fish represent a good source of protein and fat. They offer some distinct advantages to the survivor or evader. They are usually more abundant than mammal wildlife, and the ways to get them are silent. To be successful at catching fish, you must know their habits. For instance, fish tend to feed heavily before a storm. Fish are not likely to feed after a storm when the water is muddy and swollen. Light often attracts fish at night. When there is a heavy current, fish will rest in places where there is an eddy, such as near rocks. Fish will also gather where there are deep pools, under overhanging brush, and in and around submerged foliage, logs, or other objects that offer them shelter.
 
@@ -66,13 +66,13 @@
 
 **Figure 8-2\. Fish With Poisonous Flesh**
 
-**AMPHIBIANS**
+**ANFIBIOS**
 
 8-19\. Frogs are easily found around bodies of fresh water. Frogs seldom move from the safety of the water's edge. At the first sign of danger, they plunge into the water and bury themselves in the mud and debris. Frogs are characterized by smooth, moist skin. There are few poisonous species of frogs. Avoid any brightly colored frog or one that has a distinct "X" mark on its back as well as all tree frogs. Do not confuse toads with frogs. Toads may be recognized by their dry, "warty" or bumpy skin. They are usually found on land in drier environments. Several species of toads secrete a poisonous substance through their skin as a defense against attack. Therefore, to avoid poisoning, do not handle or eat toads.
 
 8-20\. Do not eat salamanders; only about 25 percent of all salamanders are edible, so it is not worth the risk of selecting a poisonous variety. Salamanders are found around the water. They are characterized by smooth, moist skin and have only four toes on each foot.
 
-**REPTILES**
+**REPTEIS**
 
 8-21\. Reptiles are a good protein source and relatively easy to catch. Thorough cooking and hand washing is imperative with reptiles. All reptiles are considered to be carriers of salmonella, which exists naturally on their skin. Turtles and snakes are especially known to infect man. If you are in an undernourished state and your immune system is weak, salmonella can be deadly. Cook food thoroughly and be especially fastidious washing your hands after handling any reptile. Lizards are plentiful in most parts of the world. They may be recognized by their dry, scaly skin. They have five toes on each foot. The only poisonous ones are the Gila monster and the Mexican beaded lizard. Care must be taken when handling and preparing the iguana and the monitor lizard, as they commonly harbor the salmonellal virus in their mouth and teeth. The tail meat is the best tasting and easiest to prepare.
 
@@ -82,7 +82,7 @@
 
 **Figure 8-3\. Turtles With Poisonous Flesh**
 
-**BIRDS**
+**PASSAROS**
 
 8-23\. All species of birds are edible, although the flavor will vary considerably. The only poisonous bird is the Pitohui, native only to New Guinea. You may skin fish-eating birds to improve their taste. As with any wild animal, you must understand birds' common habits to have a realistic chance of capturing them. You can take pigeons, as well as some other species, from their roost at night by hand. During the nesting season, some species will not leave the nest even when approached. Knowing where and when the birds nest makes catching them easier ([Figure 8-4](#fig8-4)). Birds tend to have regular flyways going from the roost to a feeding area, to water, and so forth. Careful observation should reveal where these flyways are and indicate good areas for catching birds in nets stretched across the flyways ([Figure 8-5](#fig8-5)). Roosting sites and waterholes are some of the most promising areas for trapping or snaring.
 
@@ -99,17 +99,17 @@
 
 <a name="fig8-5"></a>![Figure 8-5\. Catching Birds in a Net](fig08-05.png)
 
-**Figure 8-5\. Catching Birds in a Net**
+**Figure 8-5\. Capturando Passaros com uma rede**
 
 8-24\. Nesting birds present another food source—eggs. Remove all but two or three eggs from the clutch, marking the ones that you leave. The bird will continue to lay more eggs to fill the clutch. Continue removing the fresh eggs, leaving the ones you marked.
 
-**MAMMALS**
+**MAMIFEROS**
 
 8-25\. Mammals are excellent protein sources and, for Americans, the tastiest food source. There are some drawbacks to obtaining mammals. In a hostile environment, the enemy may detect any traps or snares placed on land. The amount of injury an animal can inflict is in direct proportion to its size. All mammals have teeth and nearly all will bite in self-defense. Even a squirrel can inflict a serious wound and any bite presents a serious risk of infection. Also, any mother can be extremely aggressive in defense of her young. Any animal with no route of escape will fight when cornered.
 
 8-26\. All mammals are edible; however, the polar bear and bearded seal have toxic levels of vitamin A in their livers. The platypus, native to Australia and Tasmania, is an egg-laying, semiaquatic mammal that has poisonous claws on its hind legs. Scavenging mammals, such as the opossum, may carry diseases.
 
-### TRAPS AND SNARES
+### ARMADILHAS E SNARES
 
 8-27\. For an unarmed survivor or evader, or when the sound of a rifle shot could be a problem, trapping or snaring wild game is a good alternative. Several well-placed traps have the potential to catch much more game than a man with a rifle is likely to shoot. To be effective with any type of trap or snare, you must—
 *  Be familiar with the species of animal you intend to catch.
@@ -132,7 +132,7 @@
 
 8-32\. Traps or snares placed on a trail or run should use funneling or channelization. To build a channel, construct a funnel-shaped barrier extending from the sides of the trail toward the trap, with the narrowest part nearest the trap. Channelization should be inconspicuous to avoid alerting the prey. As the animal gets to the trap, it cannot turn left or right and continues into the trap. Few wild animals will back up, preferring to face the direction of travel. Channelization does not have to be an impassable barrier. You only have to make it inconvenient for the animal to go over or through the barrier. For best effect, the channelization should reduce the trail's width to just slightly wider than the targeted animal's body. Maintain this constriction at least as far back from the trap as the animal's body length, then begin the widening toward the mouth of the funnel.
 
-**USE OF BAIT**
+**UTILIZACAO DE ISCAS**
 
 8-33\. Baiting a trap or snare increases your chances of catching an animal. When catching fish, you must bait nearly all the devices. Success with an unbaited trap depends on its placement in a good location. A baited trap can actually draw animals to it. The bait should be something the animal knows. However, this bait should not be so readily available in the immediate area that the animal can get it close by. For example, baiting a trap with corn in the middle of a cornfield would not be likely to work. Likewise, if corn is not grown in the region, a corn-baited trap may arouse an animal's curiosity and keep it alerted while it ponders the strange food. Under such circumstances it may not go for the bait. One bait that works well on small mammals is the peanut butter from a meal, ready-to-eat (MRE) ration. Salt is also a good bait. When using such baits, scatter bits of it around the trap to give the prey a chance to sample it and develop a craving for it. The animal will then overcome some of its caution before it gets to the trap.
 
@@ -140,7 +140,7 @@
 
 **NOTE:** Once you have successfully trapped an animal, you will not only gain confidence in your ability, you will also have resupplied yourself with bait for several more traps.
 
-**CONSTRUCTION**
+**CONSTRUÇAO**
 
 8-35\. Traps and snares _crush, choke, hang,_ or _entangle_ the prey. A single trap or snare will commonly incorporate two or more of these principles. The mechanisms that provide power to the trap are usually very simple. The struggling victim, the force of gravity, or a bent sapling's tension provides the power.
 
@@ -170,7 +170,7 @@
 
 8-40\. A simple twitch-up snare uses two forked sticks, each with a long and short leg ([Figure 8-8](#fig8-8)). Bend the twitch-up and mark the trail below it. Drive the long leg of one forked stick firmly into the ground at that point. Ensure the cut on the short leg of this stick is parallel to the ground. Tie the long leg of the remaining forked stick to a piece of cordage secured to the twitch-up. Cut the short leg so that it catches on the short leg of the other forked stick. Extend a noose over the trail. Set the trap by bending the twitch-up and engaging the short legs of the forked sticks. When an animal catches its head in the noose, it pulls the forked sticks apart, allowing the twitch-up to spring up and hang the prey.
 
-**NOTE:** Do not use green sticks for the trigger. The sap that oozes out could glue them together.
+**IMPORTANTE:** Do not use green sticks for the trigger. The sap that oozes out could glue them together.
 
 <a name="fig8-8"></a>![Figure 8-8\. Twitch-Up Snare](fig08-08.png)
 
